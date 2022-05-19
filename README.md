@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EthanLR-LSDOPEN
+- 👋 Hi, I’m @EthanLR-LsdOpen
 - 👀 I’m interested in ... happiness
 - 🌱 I’m currently learning ... work
 - 💞️ I’m looking to collaborate on ... stuff
